@@ -9,7 +9,8 @@
 title: Computational Social Affective Neuroscience
 email: computationalsan@gmail.com
 description: The Jekyll version of the Phantom theme by HTML5 UP.
-baseurl: "computational-san.github.io" # the subpath of your site, e.g. /blog
+# baseurl: "computational-san.github.io" # the subpath of your site, e.g. /blog
+baseurl: ""
 url: "" # the base hostname & protocol for your site
 
 # Logo settings
