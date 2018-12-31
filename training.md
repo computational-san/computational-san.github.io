@@ -52,4 +52,7 @@ title: Training Resources
 </section>
 
 ## Want to be Added?
-Either submit a pull request to our <a href="https://github.com/computational-san/computational-san.github.io">github page</a> or email us below.
+Either submit a pull request to our <a href="https://github.com/computational-san/computational-san.github.io">github page</a> after adding your lab to the datafile:
+<br>
+<pre><code>_data/webresources.csv</code></pre>
+or email us below.
