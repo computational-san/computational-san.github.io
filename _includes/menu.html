@@ -2,7 +2,7 @@
 	<h2>Menu</h2>
 
 	<ul>
-		<li><a href="index.html">Home</a></li>
+		<li><a href="{{ site.baseurl }}/index.html">Home</a></li>
 		{% for page in site.pages %}
 			{% unless page.exclude %}
 				{% if page.title %}
@@ -10,6 +10,5 @@
 				{% endif %}
 			{% endunless %}
 		{% endfor %}
-
 	</ul>
 </nav>

@@ -3,13 +3,17 @@
 {% for post in site.posts limit:site.front-page-posts %}
 	<article class="style{{ forloop.index | plus:1 }}">
 		<span class="image">
-			<img src="{{ site.url }}{{ site.baseurl }}/images/pic01.jpg" alt="" />
+			{% if {{post.featured-image}} == blank or {{post.featured-image}} == nil %}
+				<img src="{{ site.url }}{{ site.baseurl }}/images/pic01.jpg" alt="" />
+			{% else %}
+				<img src="{{ site.url }}{{ site.baseurl }}/images/tutorials/{{post.featured-image}}" alt="" />
+			{% endif %}
 		</span>
 		<a href="{{ post.url | prepend:site.baseurl | prepend:site.url }}">
 			<h2>{{ post.title }}</h2>
-			<div class="content">
+			<!-- <div class="content">
 				<p>{{ post.excerpt }}</p>
-			</div>
+			</div> -->
 		</a>
 	</article>
 {% endfor %}
