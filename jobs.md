@@ -7,28 +7,29 @@ title: Jobs
 
 {% for position_type in positions %}
   <section>
-  <h2>{{position_type}}</h2>
-  <div class="table-wrapper">
-    <table>
-      <thead>
-        <tr>
-          <th>Institution</th>
-          <th>Description</th>
-        </tr>
-      </thead>
+    <h2>{{position_type}}</h2>
+    <div class="table-wrapper">
+      <table>
+        <thead>
+          <tr>
+            <th>Institution</th>
+            <th>Description</th>
+          </tr>
+        </thead>
 
-      <tbody>
-        {% for posting in site.data.jobs %}
-          {% if posting.Position == {{position_type}} %}
-            <tr>
-              <td><a href="{{ posting.Ad }}">{{ posting.Institution}}"</a></td>
-              <td>{{ posting.Description }}</td>
-            </tr>
-          {% endif %}
-        {% endfor %}
-      </tbody>
-    </table>
-  </div>
+        <tbody>
+          {% for posting in site.data.jobs %}
+            {% if posting.Position == position_type %}
+              <tr>
+                <td><a href="{{ posting.Ad }}">{{ posting.Institution}}</a></td>
+                <td>{{ posting.Description }}</td>
+              </tr>
+            {% endif %}
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </section>
 {% endfor %}
 
 
