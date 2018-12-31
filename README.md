@@ -1,7 +1,3 @@
-# (WIP) Phantom - Jekyll Theme
-
-A Jekyll version of the "Phantom" theme by 
-
 # Computational Social Affective Neuroscience
 This website is to share training resources on computational methods to the social and affective neuroscience community. The template for this website was developed by [HTML5 UP](https://html5up.net/) and ported to jekyll by [Andrew Banchich](https://github.com/andrewbanchich/phantom-jekyll-theme) (see credits below).
 
