@@ -1,10 +1,14 @@
 ---
-layout: default
-title: Elements
-date:   2016-07-16 12:00:00 -0400
-categories: jekyll update
+layout: post
+title: HTML elements
+date:   2018-12-21 12:00:00 -0400
+author: Luke Chang
+author-email: luke.j.chang@dartmouth.edu
+categories: html
 featured-image: elements.png
+brief-description: Example HTML elements for Phantom Theme
 ---
+
 
 Here is an example of how to use various elements with this jekyll theme.
 

@@ -1,5 +1,6 @@
 <section class="tiles">
 
+
 {% for post in site.posts limit:site.front-page-posts %}
 	<article class="style{{ forloop.index | plus:1 }}">
 		<span class="image">
@@ -11,9 +12,12 @@
 		</span>
 		<a href="{{ post.url | prepend:site.baseurl | prepend:site.url }}">
 			<h2>{{ post.title }}</h2>
-			<!-- <div class="content">
-				<p>{{ post.excerpt }}</p>
-			</div> -->
+			<div class="content">
+				{% if {{post.brief-description}} %}
+					<p>{{post.brief-description}}</p>
+				<!-- <p>{{ post.excerpt }}</p> -->
+				{% endif %}
+			</div>
 		</a>
 	</article>
 {% endfor %}

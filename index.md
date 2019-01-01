@@ -9,5 +9,3 @@ exclude: true
 </p>
 
 </header>
-
-{% include tiles.html %}
