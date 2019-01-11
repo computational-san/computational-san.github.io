@@ -12,7 +12,7 @@ The goal of this workshop is to provide a general introduction to applying compu
 
 <ul>
 <li><strong>Date</strong>: May 2nd, 2019</li>
-<li><strong>Cost</strong>: $25</li>
+<li><strong>Cost</strong>: $35</li>
 <li><strong>Location</strong>: Miami, FL</li>
 </ul>
 
@@ -102,6 +102,10 @@ Insert Link to register
 </table>
 </div>
 </section>
+
+## Organizing Committee
+
+The CSAN preconference is being organized by James Thompson (GMU), Carolyn Parkinson (UCLA), Robert Chavez (Oregon), Emmanuelle Tognoli (FAU), and Luke Chang (Dartmouth). If you have any questions please contact us using the form below or email jthompsz@gmu.edu
 
 ## Funding
 
