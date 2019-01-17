@@ -18,7 +18,7 @@ The goal of this workshop is to provide a general introduction to applying compu
 
 ## Registration
 
-Registration is first come first serve.  Please fill out this [google form](https://docs.google.com/forms/d/e/1FAIpQLSc6OrZUJjM5wYM2He_hEo45gx9GuIvFziRpj5lpNznGMtdByA/viewform?usp=sf_link).
+Registration is first come first serve.  Please fill out this [google form](https://docs.google.com/forms/d/e/1FAIpQLSc6OrZUJjM5wYM2He_hEo45gx9GuIvFziRpj5lpNznGMtdByA/viewform?usp=sf_link) with your registration details.
 
 Then complete your payment using paypal.
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
