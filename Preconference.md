@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SANS Preconference 2019
+title: Computational SAN Preconference 2019
 featured-image: images/preconference/SANS.png
 ---
 
@@ -11,14 +11,14 @@ The goal of this workshop is to provide a general introduction to applying compu
 ## Details
 
 <ul>
-<li><strong>Date</strong>: May 2nd, 2019</li>
+<li><strong>Time and Date</strong>: 8.30am-2.30pm, May 2nd, 2019</li>
 <li><strong>Cost</strong>: $35</li>
-<li><strong>Location</strong>: Miami, FL</li>
+<li><strong>Location</strong>: Surfcomber Hotel, Miami Beach, FL</li>
 </ul>
 
 ## Registration
 
-Insert Link to register
+<a href = "https://docs.google.com/forms/d/e/1FAIpQLSc6OrZUJjM5wYM2He_hEo45gx9GuIvFziRpj5lpNznGMtdByA/viewform?usp=sf_link"><strong>Click here to register</strong></a>
 
 ## Speakers
 <section>
