@@ -18,7 +18,15 @@ The goal of this workshop is to provide a general introduction to applying compu
 
 ## Registration
 
-<a href = "https://docs.google.com/forms/d/e/1FAIpQLSc6OrZUJjM5wYM2He_hEo45gx9GuIvFziRpj5lpNznGMtdByA/viewform?usp=sf_link"><strong>Click here to register</strong></a>
+Registration is first come first serve.  Please fill out this [google form](https://docs.google.com/forms/d/e/1FAIpQLSc6OrZUJjM5wYM2He_hEo45gx9GuIvFziRpj5lpNznGMtdByA/viewform?usp=sf_link).
+
+Then complete your payment using paypal.
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="BUZAJSSHH67GN">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
 
 ## Speakers
 <section>
