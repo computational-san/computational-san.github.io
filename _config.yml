@@ -14,7 +14,7 @@ baseurl: ""
 url: "" # the base hostname & protocol for your site
 
 # Logo settings
-logo-image-url: images/logo.svg
+logo-image-url: CSAN_Logo.svg
 font-awesome-icon-logo:
 
 # Social settings
