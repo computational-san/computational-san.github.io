@@ -11,6 +11,14 @@ Fork this reposity and create a branch named `gh-pages`, then start editing the 
 
 Here is some [help](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/) in serving the page locally for development.
 
+# How to Add Events/Resources/Affiliates/Jobs
+
+Adding new content to the website is very easy.   We are using .csv files in the _data directory to [pseudo-dynamically](https://jekyllrb.com/docs/datafiles/) update the page. Simply add a new row to any of the .csv files in `/_data`.  It will automatically be added when you push this change to the website.
+
+# How to Add Tutorials
+
+Contributing a new tutorial is easy.  All it requires is creating a new post in markdown and adding it to the `/_posts` folder.  See existing posts for examples. If you would like to include any images including a "featured-image" to be on the tutorial thumbnail, add them to `/images/tutorials`.  Feel free to open an issue if you have any problems creating a tutorial.
+
 # Issues
 
 If you would like to report a bug, ask a question, request a feature, feel free to do so on our issues page.
