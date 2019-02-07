@@ -18,15 +18,7 @@ The goal of this workshop is to provide a general introduction to applying compu
 
 ## Registration
 
-Registration is first come first serve.  Please fill out this [google form](https://docs.google.com/forms/d/e/1FAIpQLSc6OrZUJjM5wYM2He_hEo45gx9GuIvFziRpj5lpNznGMtdByA/viewform?usp=sf_link) with your registration details.
-
-Then complete your payment using paypal.
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="BUZAJSSHH67GN">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+The capacity of the venue is 70 people, and currently registration is full. We have a waitlist, and we hope to reopen a few seats in early March. If you'd like to put your name on the waitlist, please fill out the [google form](https://docs.google.com/forms/d/e/1FAIpQLSc6OrZUJjM5wYM2He_hEo45gx9GuIvFziRpj5lpNznGMtdByA/viewform?usp=sf_link) with your registration details. If you are placed on the waitlist, we will contact you when some seats open up with details of how to pay the registration fee.
 
 ## Speakers
 <section>
