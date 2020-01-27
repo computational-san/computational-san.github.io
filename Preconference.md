@@ -1,24 +1,33 @@
 ---
 layout: page
-title: Computational SAN Preconference 2019
+title: SANS Preconference 2020
 featured-image: images/preconference/SANS.png
 ---
 
-There will be a Computational preconference at this year's <a href = "https://www.socialaffectiveneuro.org/conferences.html">SANS</a> meeting in Miami, FL.
+The second Computational preconference will be held at this year's <a href = "https://www.socialaffectiveneuro.org/conferences.html">SANS</a> meeting in Santa Barbara, CA.
 
-The goal of this workshop is to provide a general introduction to applying computational approaches to social and affective neuroscience questions. Each speaker will provide an introduction to a specific technique (e.g., drift diffusion modeling, multivariate prediction and representational similarity analysis, functional alignment, and social networks) and illustrate how these techniques can be can be used to make inferences about various computational and affective processes. In addition we will have group discussions about "Barriers to Training" and "What is a Model?"
+The goal of this workshop is to provide a general introduction to applying computational approaches to social and affective neuroscience questions. Each speaker will provide an introduction to a specific technique and illustrate how these techniques can be can be used to make inferences about various computational and affective processes. This year, the preconference will focus on two topics: Computational analysis of naturalistic social behavior; and Inferring mental states using Partially Observable Markov Decision Processes (POMDPs).
 
 ## Details
 
 <ul>
-<li><strong>Time and Date</strong>: 8.30am-2.30pm, May 2nd, 2019</li>
+<li><strong>Date</strong>: 9am - 12pm, May 7nd, 2020</li>
 <li><strong>Cost</strong>: $35</li>
-<li><strong>Location</strong>: Surfcomber Hotel, Miami Beach, FL</li>
+<li><strong>Location</strong>: Hilton Beachfront Resort, Santa Barbara, CA</li>
 </ul>
 
 ## Registration
 
-The capacity of the venue is 70 people, and currently registration is full. We have a waitlist, and we hope to reopen a few seats in early March. If you'd like to put your name on the waitlist, please fill out the [google form](https://docs.google.com/forms/d/e/1FAIpQLSc6OrZUJjM5wYM2He_hEo45gx9GuIvFziRpj5lpNznGMtdByA/viewform?usp=sf_link) with your registration details. If you are placed on the waitlist, we will contact you when some seats open up with details of how to pay the registration fee.
+Registration is first come first serve.  Please fill out this [google form](https://docs.google.com/forms/d/e/1FAIpQLSc6OrZUJjM5wYM2He_hEo45gx9GuIvFziRpj5lpNznGMtdByA/viewform?usp=sf_link) with your registration details.
+
+Then complete your payment using paypal.
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="BUZAJSSHH67GN">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
 
 ## Speakers
 <section>
@@ -44,57 +53,33 @@ The capacity of the venue is 70 people, and currently registration is full. We h
 <tbody>
 
 <tr>
-<td>8:30</td>
+<td>8:45</td>
 <td>Registration</td>
 </tr>
 
-<tr>
-<td>8:45</td>
-<td>Introduction</td>
-</tr>
 
 <tr>
 <td>9:00</td>
-<td>Keynote: Read Montague</td>
+<td>Welcome Remarks</td>
 </tr>
 
 <tr>
-<td>10:00</td>
-<td>Coffee Break</td>
+<td>9:05</td>
+<td>Computational analysis of naturalistic social behavior (Jessy Lauer, DeepLabCut/Harvard; Mark Thornton, Princeton/Dartmouth)</td>
 </tr>
 
 <tr>
-<td>10:30</td>
-<td>Symposium (Cendri Hutcherson, Emmanuelle Tognoli, Rob Chavez, Carolyn Parkinson, Luke Chang)</td>
+<td>10:20</td>
+<td>Break</td>
+</tr>
+
+<tr>
+<td>10:40</td>
+<td>Inferring mental states using Partially Observable Markov Decision Processes (POMDPs) (Vincent Costa, OHSU; Tessa Rusch)</td>
 </tr>
 
 <tr>
 <td>12:00</td>
-<td>Lunch</td>
-</tr>
-
-<tr>
-<td>13:00</td>
-<td>Careers in Industry (Google)</td>
-</tr>
-
-<tr>
-<td>13:15</td>
-<td>Breakout Session</td>
-</tr>
-
-<tr>
-<td>14:00</td>
-<td>Breakout Discussion</td>
-</tr>
-
-<tr>
-<td>14:30</td>
-<td>Closing Remarks</td>
-</tr>
-
-<tr>
-<td>15:00</td>
 <td>Preconference Over</td>
 </tr>
 
@@ -103,10 +88,6 @@ The capacity of the venue is 70 people, and currently registration is full. We h
 </div>
 </section>
 
-## Organizing Committee
+## Organizing Commitee
 
-The CSAN preconference is being organized by James Thompson (GMU), Carolyn Parkinson (UCLA), Robert Chavez (Oregon), Emmanuelle Tognoli (FAU), and Luke Chang (Dartmouth). If you have any questions please contact us using the form below or email jthompsz@gmu.edu
-
-## Funding
-
-This meeting is generously supported by funding from Google and the Army Research Office.
+The CompSAN preconference is being organized by James Thompson (GMU) and Luke Chang (Dartmouth). If you have any questions please contact us using the form below or email jthompsz@gmu.edu
