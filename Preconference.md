@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Computational SAN Preconference 2019
+year: 2019
 featured-image: images/preconference/SANS.png
 ---
 
@@ -23,10 +24,12 @@ The capacity of the venue is 70 people, and currently registration is full. We h
 ## Speakers
 <section>
   {% for speaker in site.data.preconference_speakers %}
-    <figure>
-    <a href="{{speaker.Website}}"><img src="images/preconference/{{speaker.Picture}}" alt="{{speaker.Name}}" height="300"></a>
-    <figcaption><strong><a href="{{speaker.Website}}">{{speaker.Name}}</a></strong><p>{{speaker.Institution}}</p></figcaption>
-    </figure>
+    {% if speaker.Year contains page.year %}
+      <figure>
+      <a href="{{speaker.Website}}"><img src="images/preconference/{{speaker.Picture}}" alt="{{speaker.Name}}" height="300"></a>
+      <figcaption><strong><a href="{{speaker.Website}}">{{speaker.Name}}</a></strong><p>{{speaker.Institution}}</p></figcaption>
+      </figure>
+    {% endif %}
   {% endfor %}
 </section>
 
