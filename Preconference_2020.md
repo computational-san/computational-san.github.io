@@ -7,7 +7,7 @@ featured-image: images/preconference/SANS.png
 
 The second Computational preconference will be held at this year's <a href = "https://www.socialaffectiveneuro.org/conferences.html">SANS</a> meeting in Santa Barbara, CA. 
 
-The goal of this workshop is to provide a general introduction to applying computational approaches to social and affective neuroscience questions. Each speaker will provide an introduction to a specific technique and illustrate how these techniques can be can be used to make inferences about various computational and affective processes. This year, the preconference will focus on two topics: Computational analysis of naturalistic social behavior; and Inferring mental states using Partially Observable Markov Decision Processes (POMDPs).
+The goal of this workshop is to provide a general introduction to applying computational approaches to social and affective neuroscience questions. Each speaker will provide an introduction to a specific technique and illustrate how these techniques can be can be used to make inferences about various computational and affective processes. This year, the preconference will focus on two topics: Computational analysis of naturalistic social behavior; and Inferring mental states using Partially Observable Markov Decision Processes (POMDPs). There will be hands on demonstrations of how to apply these methods to real data and also brainstorming sessions for how these techniques might be applied to other datasets.
 
 ## Details
 
@@ -67,7 +67,7 @@ Then complete your payment using paypal.
 
 <tr>
 <td>9:05</td>
-<td>Computational analysis of naturalistic social behavior (Jessy Lauer, DeepLabCut/Harvard; Mark Thornton, Princeton/Dartmouth)</td>
+<td>Computational analysis of naturalistic social behavior (Jessy Lauer, Mark Thornton)</td>
 </tr>
 
 <tr>
@@ -77,7 +77,7 @@ Then complete your payment using paypal.
 
 <tr>
 <td>10:40</td>
-<td>Inferring mental states using Partially Observable Markov Decision Processes (POMDPs) (Vincent Costa, OHSU; Tessa Rusch)</td>
+<td>Inferring mental states using Partially Observable Markov Decision Processes (POMDPs) (Vincent Costa, Tessa Rusch)</td>
 </tr>
 
 <tr>
