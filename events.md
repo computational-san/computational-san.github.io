@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Events
+exclude: true
 ---
 
 <section>

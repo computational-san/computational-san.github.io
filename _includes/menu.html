@@ -3,12 +3,18 @@
 
 	<ul>
 		<li><a href="{{ site.baseurl }}/index.html">Home</a></li>
-		{% for page in site.pages %}
+    {% assign sorted_pages = site.pages | sort:"year" %}
+		{% for page in sorted_pages reversed %}
 			{% unless page.exclude %}
 				{% if page.title %}
 					<li><a href="{{ page.url | prepend: site.baseurl}}">{{ page.title }}</a></li>
 				{% endif %}
 			{% endunless %}
 		{% endfor %}
+		<li><a href="{{ site.baseurl }}/affiliates.html">Affiliated Labs</a></li>
+		<li><a href="{{ site.baseurl }}/events.html">Events</a></li>
+		<li><a href="{{ site.baseurl }}/jobs.html">Jobs</a></li>
+		<li><a href="{{ site.baseurl }}/training.html">Training Resources</a></li>
+		<li><a href="{{ site.baseurl }}/tutorials.html">Tutorials</a></li>
 	</ul>
 </nav>

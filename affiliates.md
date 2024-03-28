@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Affiliated Labs
+exclude: true
 ---
 
 <section>

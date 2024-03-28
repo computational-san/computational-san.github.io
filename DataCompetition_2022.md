@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computational SAN Data Competition 2022
-year: 2020
+year: 2022
 featured-image: images/preconference/SANS.png
 ---
 

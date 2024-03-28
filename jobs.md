@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Jobs
+exclude: true
 ---
 
 {% assign positions = site.data.jobs | map: 'Position' | uniq %}

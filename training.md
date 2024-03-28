@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Training Resources
+exclude: true
 ---
 
 ## Summer Schools
