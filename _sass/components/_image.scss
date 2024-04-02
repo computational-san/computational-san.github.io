@@ -54,7 +54,8 @@
 			width: 100%;
 
 			img {
-				width: 100%;
+        margin-left: auto;
+        margin-right: auto;
 			}
 
 			@include breakpoint(small) {

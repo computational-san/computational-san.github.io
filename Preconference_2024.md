@@ -5,11 +5,12 @@ year: 2024
 featured-image: images/preconference/SANS.png
 ---
 
-This year's Computational preconference will be held at this year's <a href = "https://socialaffectiveneuro.org/preconference-workshop/">SANS</a> meeting in Toronto, Canada. 
+The third Computational preconference will be held at this year's <a href = "https://socialaffectiveneuro.org/preconference-workshop/">SANS</a> meeting in Toronto, Canada. 
 
-This highly experienced team has published multiple papers in the social computational space in both general science and cross-psychological area journals like Nature Neuroscience, Science Advances, Psychological Science, and Journal of Experimental Psychology: General. The topics covered in the workshop will reflect the work being done in their respective research programs, including social reinforcement learning, multivariate pattern classification as applied to complex phenomena like emotional experience, and using automated computer vision to analyze facial expressions.
+The topics covered in the workshop include social reinforcement learning, multivariate pattern classification as applied to complex phenomena like emotional experience, and using automated computer vision to analyze facial expressions.  On-site at the conference, you will put theory into practice with hands-on tutorials and hacking.
 
-Materials will be provided in advance for review, including pre-recorded talks with the relevant theory. On-site at the conference, you will put that theory into practice with this hands-on computational workshop where attendees will learn how to implement computational methods and evaluate results in small groups.
+**Please watch the pre-recorded talks below before the workshop.**  
+Below each video you also find link(s) to relevant workshop materials (e.g. code, data)
 
 ## Details
 
@@ -32,7 +33,23 @@ Materials will be provided in advance for review, including pre-recorded talks w
 
 ## Schedule
 
-TBD!
+### 1. Introduction to Reinforcement Learning
+
+**(Video coming)**
+
+**[Tutorial Materials]()**
+
+### 2. Machine learning and neural decoding
+
+**(Video coming)**
+
+**[Tutorial Materials]()**
+
+### 3. Analyzing Facial Expressions
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BpZ3EqSxEXk?si=HnyuY6rq7FY_2DwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**[Tutorial Materials]()**
 
 ## Organizing Committee
 
