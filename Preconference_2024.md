@@ -49,7 +49,7 @@ Below each video you also find link(s) to relevant workshop materials (e.g. code
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BpZ3EqSxEXk?si=HnyuY6rq7FY_2DwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**[Tutorial Materials]()**
+**[Tutorial Materials](https://www.dropbox.com/scl/fo/tqg8hzswxdadnsj564q16/h?rlkey=00tup5osbwc4zzczhoko9i58j&dl=0)**
 
 ## Organizing Committee
 
