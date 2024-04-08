@@ -35,9 +35,10 @@ Below each video you also find link(s) to relevant workshop materials (e.g. code
 
 ### 1. Introduction to Reinforcement Learning
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xPSEuOz5FWo?si=UE2RtQ7BFkTDE70p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R35RZn5a9PI?si=Pe6yoZcIGJQPrhOg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xPSEuOz5FWo?si=UE2RtQ7BFkTDE70p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **[Tutorial Materials]()**
 
