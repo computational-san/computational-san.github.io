@@ -52,7 +52,9 @@ Below each video you also find link(s) to relevant workshop materials (e.g. code
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BpZ3EqSxEXk?si=HnyuY6rq7FY_2DwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**[Tutorial Materials](https://www.dropbox.com/scl/fo/tqg8hzswxdadnsj564q16/h?rlkey=00tup5osbwc4zzczhoko9i58j&dl=0)**
+**[Tutorial Materials (to run locally)](https://www.dropbox.com/scl/fo/tqg8hzswxdadnsj564q16/h?rlkey=00tup5osbwc4zzczhoko9i58j&dl=0)** 
+
+To run online: [Collab Notebook 1](https://colab.research.google.com/drive/1arhP-OE6pH23FSheVr4wAHdQ4n6LoImb?usp=sharing) : [Collab Notebook 2](https://colab.research.google.com/drive/1M4x5WASVwmLxJf6GHdHrBBfp8XA4dANv?usp=sharing) : [Google Drive data folder](https://drive.google.com/drive/folders/18q9lgtqc-5xFf3df6qDG1OqmLHGzSeZV?usp=sharing)
 
 ## Organizing Committee
 
