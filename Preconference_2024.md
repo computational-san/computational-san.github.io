@@ -40,7 +40,7 @@ Below each video you also find link(s) to relevant workshop materials (e.g. code
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R35RZn5a9PI?si=Pe6yoZcIGJQPrhOg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-**[Tutorial Materials]()**
+**[Tutorial Materials](https://www.dropbox.com/scl/fo/eqedsa5m02agd4zao5faj/ALVOcdgMVl0-kitCX3E0zu4?rlkey=8y6mlbcld1oxatcy06mhmx8na&dl=0)**
 
 ### 2. Machine learning and neural decoding
 
