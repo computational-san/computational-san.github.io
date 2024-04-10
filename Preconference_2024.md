@@ -46,7 +46,7 @@ Below each video you also find link(s) to relevant workshop materials (e.g. code
 
 **(Video coming)**
 
-**[Tutorial Materials]()**
+**[Tutorial Materials](https://colab.research.google.com/drive/12zggQve_v6wOmN3M2fKxaUnJaUngZp3Z?usp=sharing)**
 
 ### 3. Analyzing Facial Expressions
 
